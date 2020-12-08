@@ -3,9 +3,6 @@
 ![DockerFile](https://img.shields.io/badge/DockerFile-20200128-blue)
 ![Acunetix](https://img.shields.io/badge/Acunetix-12.0.190325161(20190525)-blue)
 
-[官方下載頁](https://www.acunetix.com/thank-you-for-downloading-wvs-onsite-linux/)
-[acunetix_trial.sh](https://s3.amazonaws.com/a280ccaaf904330a389db759e6275285/acunetix_trial.sh)
-
 ## 使用手冊
 
 基於 Ubuntu 18.04 映像建立 Acunetix 12 試用版的執行環境
